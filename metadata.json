@@ -1,0 +1,6 @@
+{
+  "name": "SA-MP Launcher",
+  "description": "Mobile launcher for GTA San Andreas Multiplayer server featuring mandatory Google authentication, automated game data deployment, and direct server connection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
